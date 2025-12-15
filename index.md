@@ -1,16 +1,18 @@
 ---
 layout: default
-title: <Your Name>
+title: Gregory Sharma
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profPicCropped.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a Mechanical Engineering Senior at Cornell University.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I’m a fourth-year Mechanical Engineering undergraduate at Cornell University who enjoys working where theory meets hardware and ideas are proven through experiment. My interests span advanced manufacturing, aeromechanical systems, and energy technologies, with a strong focus on hands-on, research-driven engineering. I’ve contributed to fusion energy R&D at Marathon Fusion, where I helped design, build, and test an ultra-high-vacuum plasma centrifuge, and previously conducted research at Cornell Engineering developing an experimental Dynamic Sized Droplet (DynaSD) additive manufacturing system to improve printing resolution and repeatability.
+
+Along the way, I’ve worked on aeromechanical design and simulation at MagLev Aero, contributed to autonomous vehicle development with Cornell Electric Vehicles, and taught CAD and manufacturing workflows as a Fusion 360 Student Ambassador for Autodesk. I’m motivated by collaborative R&D, rapid prototyping, and building robust systems that push technical boundaries. I hope you enjoy exploring the projects and work showcased throughout this portfolio.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
