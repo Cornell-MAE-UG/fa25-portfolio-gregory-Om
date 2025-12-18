@@ -1,20 +1,17 @@
 ---
 layout: project
-title: Project 1
-description: 
-technologies: [MATLAB, python]
-image: 
+title: MAE4300 Project Writeup
+description: Summary of core ethical principles learned at Cornell University class MAE 4300
+technologies: [Team Collaboration]
+image: /assets/images/should.jpg
 ---
 
-text here
+Directly from the introduction inside the syllabus for MAE 4300, it's emphasis is  ensuring that every mechanical engineer is reminded that they have agency in their own ethical and professional decisions when situations are properly contextualized. By the end of this class, I realized that technical expertise alone is insufficient; engineering judgment must be continually refined because many of the problems we face are “wicked” in nature—complex, ambiguous, and lacking clear-cut answers. By critically reflecting on these class assignments, the evolution of my answers, and my current interpretation of emerging technologies, I can approach these dilemmas with clearer intent and stronger ethical grounding.
 
-This is how I solved the problem:
+The Boeing 737 Max case demonstrated how ethical failures arise not simply from flawed design, but from flawed decision-making and the push-and-pull from those involved (or LACK of push-and-pull). MCAS was not doomed by physics; it failed because transparency was lacking, training was minimized, and engineers were placed in positions where organizational pressure eclipsed personal responsibility. This case showed me that stakeholder analysis is not an academic exercise—it is essential for identifying who is at risk and how engineering choices align or conflict with ASME principles. If individual engineers had acted with greater transparency, questioned assumptions, or insisted on clearer communication, the outcome could have been different. That does not mean, however, that the case contained a clear-cut solution. Yes, there were actions that should have taken place—a combination of corporate priorities and workplace culture—but engineers had a significant role to play. Personal codes of ethics can be strengthened by understanding the “wickedness” at play, and that understanding is worth acting on. More precisely, pursuing ethical alignment is something that, in the best interest of everyone, should be done. While clashes of interest are inevitable, adherence to engineering standards exposes misalignment in individuals, organizations, and systems that create the very problems we aim to avoid. Having this understaning can bring certainty behind speaking up and about about personal core ethical judgements. 
 
-```python
-    some code = 10;
-    plot();
-```
+I also learned that wicked problems require tradeoffs. Stakeholders rarely share priorities, and engineers must navigate competing economic, safety, and regulatory pressures. Transparency is a critical starting point for addressing misaligned expectations and preventing ethical blind spots. Corporate policy may not cover every dilemma, which means responsibility does not end at the organizational boundary. For example, the pressured work culture at Boeing contributed to a disaster that should have been avoided; when corporate policy fails, the responsibility extends to the individual. Furthermore, culture, ambiguity, and external pressures complicate ethical decision-making. That being said, course taught me that, as an engineer, I still have agency. Professional codes such as those from ASME do not eliminate complexity, but they provide a compass when clarity is scarce. Understanding them gives me the confidence to question assumptions, communicate risks, and act intentionally rather than passively.
 
-text here
+Looking ahead, AI threatens to blur responsibility even further. When decision-making shifts from humans to algorithms, accountability can become diffuse. Engineers must therefore design, deploy, and evaluate AI systems with explicit transparency, fairness, and explainability. Without this, the diffusion of innovation risks becoming the diffusion of blame. For example, if an aircraft component were improperly mounted and caused fatalities, tracing responsibility would become even more complex in an AI-driven design environment. Upholding personal standards of responsibility is critical to prevent creating even more “wicked” scenarios. 
 
-
+Ultimately, MAE 4300 reshaped my view of engineering responsibility. Wicked problems will continue to demand sacrifice, tradeoffs, and professional judgment. Simply viewing changes as a "cost/benefit analysis" can create a misunderstanding that their is an answer which is where a reflection of personal and organizational ethics must be taught and understood wiht a higher regard. Yet with ethical awareness, I can confront them not as an overwhelmed participant, but as a deliberate actor—capable of recognizing stakeholders, acknowledging uncertainty, and making informed decisions grounded in transparency and professional duty. After all, engineering is not only about solving technical problems; it is about navigating complex human systems with integrity.
