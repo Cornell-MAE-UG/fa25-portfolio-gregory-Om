@@ -11,4 +11,9 @@ I found that Problem set 2 was the most valuable throughout my time with this he
 
 Furthermore, I also wanted to talk about the first question involving the electric water heater. Not only is this a practical use case for, yet again, applying the theory in a real-life case, this problem in particular built some useful habits for me when solving more problems in the future. The habit of defining my system boundaries and applying conservation of heat principles allowed me to break this problem up into something more digestible. From a more practical perspective, this question also puts the scale in which practical insulation is used and the magnitude of their impact when regulating temperature. I find that understanding this scale (and the variables that go with thermal management), show how powerful a REALLY good design can be even when something as simple as adding foam around the sides makes such a large difference in energy saving. 
 
+See the homework here & my answers:
+<embed src="{{ '/assets/Problem set 2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
+
+<embed src="{{ '/assets/heat_trans_hw_2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
+
 
