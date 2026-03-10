@@ -5,11 +5,13 @@ title: Gregory Sharma
 
 ## About Me
 
-
 ![Profile Picture]({{ "assets/images/profPicCropped.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a Mechanical Engineering Senior at Cornell University.
+My NAME name is {{ site.name }}, and I am a Mechanical Engineering Senior at Cornell University.
+
+
+THIS SHOULD SHOW UP
 
 I’m a fourth-year Mechanical Engineering undergraduate at Cornell University who enjoys working where theory meets hardware and ideas are proven through experiment. My interests span advanced manufacturing, aeromechanical systems, and energy technologies, with a strong focus on hands-on, research-driven engineering. I’ve contributed to fusion energy R&D at Marathon Fusion, where I helped design, build, and test an ultra-high-vacuum plasma centrifuge, and previously conducted research at Cornell Engineering developing an experimental Dynamic Sized Droplet (DynaSD) additive manufacturing system to improve printing resolution and repeatability.
 
