@@ -3,7 +3,7 @@ layout: default
 title: Gregory Sharma
 ---
 
-## About MeA
+## About Me!! 
 
 ![Profile Picture]({{ "assets/images/profPicCropped.jpg" | relative_url }}){: class="profile-image"}
 
